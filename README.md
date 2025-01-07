@@ -62,10 +62,10 @@ A modern and interactive implementation of the classic Tic Tac Toe game with sou
 ## 📂 Project Structure
 ```plaintext
 TIC-TAC-TOE/
-├── index.html       # Main HTML file
-├── style.css   # Styling for the game
+├── index.html   # Main HTML file
+├── style.css    # Styling for the game
 ├── script.js    # Game logic
-├── Sounds/          # Folder containing sound files for the game (click, Win sound,Tie sound etc.)
+├── Sounds/      # Folder containing sound files for the game (click, Win sound,Tie sound etc.)
 ```
 ---
 
