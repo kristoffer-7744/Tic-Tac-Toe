@@ -5,7 +5,7 @@ A modern and interactive implementation of the classic Tic Tac Toe game with sou
 ---
 
 ## 🖥️ Demo
-🎮 Enjoy The Game : [[ Start](https://kristoffer-7744.github.io/Tic-Tac-Toe/)].
+🎮 Enjoy The Game : [[ Start](https://kristoffer-7744.github.io/Tic-Tac-Toe/) ].
 
 ---
 
