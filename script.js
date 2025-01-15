@@ -101,7 +101,7 @@ function handleMove(index) {
         gameActive = false;
         tieSound.play();
         tieSound.volume=0.3;
-        setTimeout(()=>{ resetGame() },1500);
+        setTimeout(()=>{ resetGame() },2000);
     }
     else{
     currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
